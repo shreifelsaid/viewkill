@@ -1,9 +1,14 @@
 <html>
-<head></head>
+<head>
+    <script>
+        var filelines;
+        </script>
+</head>
 <body>
 
-<input type="file" id="files" name="file" />
-<button onclick="abortRead();" style="float:right;">Cancel read</button>
-<div id="progress_bar"><div class="percent">0%</div></div>
+<input type="file" id="openfile" />
+<br>
+<pre id="filecontents"></pre>
+<script type="text/javascript" src="index.js"></script>
 </body>
 </html>
