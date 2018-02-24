@@ -8,4 +8,3 @@ document.getElementById("openfile").addEventListener("change", function(){
 
     fr.readAsText(this.files[0]);
     })
-
