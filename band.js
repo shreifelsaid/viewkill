@@ -18,23 +18,23 @@ function readBand(){
     // if not found then return false
     else {
         return false;
-    }
+    } 
 }
 
 
 function organizeBand(band) { 
-    // Find the number of bands
+    // Find the number of bands (energy values) 
     var nBands;
     nBands = filelines[4].split(" ")[0]; 
     // number of K points
     nKpts  = filelines[3].split(" ")[0]; 
     
-    // make empty list for bands data
+    // make empty list for bands data => [ [], [], [] ....   ]
     var bands = [];
     for( var i =0 ; i < nBands; i++ ) {
         bands.push([]);
     }
-    
+    // j is the line number
     var j = 0;
     for( var k =0 ; k <= nKpts; k++ ) {
         // skipping first line
