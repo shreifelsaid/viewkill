@@ -1,0 +1,4889 @@
+Read: 4 atoms
+Processing lattice parameters.
+Average Propeties will be calculated.
+Symmetry will be used in the calculations.
+Reading 2196 K points.
+Completed parameter acquisition.
+There are 8 orbitals in the unit cell.
+5 overlaps will be considered.
+Allocating approximately  3436.95 Kbytes (    3.36 Meg).
+Each matrix is:     0.00 meg.
+
+
+Done evaluating overlap integrals.
+Kpoint: 1
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2
+Error value from Diagonalization (0 is good): 0
+Kpoint: 3
+Error value from Diagonalization (0 is good): 0
+Kpoint: 4
+Error value from Diagonalization (0 is good): 0
+Kpoint: 5
+Error value from Diagonalization (0 is good): 0
+Kpoint: 6
+Error value from Diagonalization (0 is good): 0
+Kpoint: 7
+Error value from Diagonalization (0 is good): 0
+Kpoint: 8
+Error value from Diagonalization (0 is good): 0
+Kpoint: 9
+Error value from Diagonalization (0 is good): 0
+Kpoint: 10
+Error value from Diagonalization (0 is good): 0
+Kpoint: 11
+Error value from Diagonalization (0 is good): 0
+Kpoint: 12
+Error value from Diagonalization (0 is good): 0
+Kpoint: 13
+Error value from Diagonalization (0 is good): 0
+Kpoint: 14
+Error value from Diagonalization (0 is good): 0
+Kpoint: 15
+Error value from Diagonalization (0 is good): 0
+Kpoint: 16
+Error value from Diagonalization (0 is good): 0
+Kpoint: 17
+Error value from Diagonalization (0 is good): 0
+Kpoint: 18
+Error value from Diagonalization (0 is good): 0
+Kpoint: 19
+Error value from Diagonalization (0 is good): 0
+Kpoint: 20
+Error value from Diagonalization (0 is good): 0
+Kpoint: 21
+Error value from Diagonalization (0 is good): 0
+Kpoint: 22
+Error value from Diagonalization (0 is good): 0
+Kpoint: 23
+Error value from Diagonalization (0 is good): 0
+Kpoint: 24
+Error value from Diagonalization (0 is good): 0
+Kpoint: 25
+Error value from Diagonalization (0 is good): 0
+Kpoint: 26
+Error value from Diagonalization (0 is good): 0
+Kpoint: 27
+Error value from Diagonalization (0 is good): 0
+Kpoint: 28
+Error value from Diagonalization (0 is good): 0
+Kpoint: 29
+Error value from Diagonalization (0 is good): 0
+Kpoint: 30
+Error value from Diagonalization (0 is good): 0
+Kpoint: 31
+Error value from Diagonalization (0 is good): 0
+Kpoint: 32
+Error value from Diagonalization (0 is good): 0
+Kpoint: 33
+Error value from Diagonalization (0 is good): 0
+Kpoint: 34
+Error value from Diagonalization (0 is good): 0
+Kpoint: 35
+Error value from Diagonalization (0 is good): 0
+Kpoint: 36
+Error value from Diagonalization (0 is good): 0
+Kpoint: 37
+Error value from Diagonalization (0 is good): 0
+Kpoint: 38
+Error value from Diagonalization (0 is good): 0
+Kpoint: 39
+Error value from Diagonalization (0 is good): 0
+Kpoint: 40
+Error value from Diagonalization (0 is good): 0
+Kpoint: 41
+Error value from Diagonalization (0 is good): 0
+Kpoint: 42
+Error value from Diagonalization (0 is good): 0
+Kpoint: 43
+Error value from Diagonalization (0 is good): 0
+Kpoint: 44
+Error value from Diagonalization (0 is good): 0
+Kpoint: 45
+Error value from Diagonalization (0 is good): 0
+Kpoint: 46
+Error value from Diagonalization (0 is good): 0
+Kpoint: 47
+Error value from Diagonalization (0 is good): 0
+Kpoint: 48
+Error value from Diagonalization (0 is good): 0
+Kpoint: 49
+Error value from Diagonalization (0 is good): 0
+Kpoint: 50
+Error value from Diagonalization (0 is good): 0
+Kpoint: 51
+Error value from Diagonalization (0 is good): 0
+Kpoint: 52
+Error value from Diagonalization (0 is good): 0
+Kpoint: 53
+Error value from Diagonalization (0 is good): 0
+Kpoint: 54
+Error value from Diagonalization (0 is good): 0
+Kpoint: 55
+Error value from Diagonalization (0 is good): 0
+Kpoint: 56
+Error value from Diagonalization (0 is good): 0
+Kpoint: 57
+Error value from Diagonalization (0 is good): 0
+Kpoint: 58
+Error value from Diagonalization (0 is good): 0
+Kpoint: 59
+Error value from Diagonalization (0 is good): 0
+Kpoint: 60
+Error value from Diagonalization (0 is good): 0
+Kpoint: 61
+Error value from Diagonalization (0 is good): 0
+Kpoint: 62
+Error value from Diagonalization (0 is good): 0
+Kpoint: 63
+Error value from Diagonalization (0 is good): 0
+Kpoint: 64
+Error value from Diagonalization (0 is good): 0
+Kpoint: 65
+Error value from Diagonalization (0 is good): 0
+Kpoint: 66
+Error value from Diagonalization (0 is good): 0
+Kpoint: 67
+Error value from Diagonalization (0 is good): 0
+Kpoint: 68
+Error value from Diagonalization (0 is good): 0
+Kpoint: 69
+Error value from Diagonalization (0 is good): 0
+Kpoint: 70
+Error value from Diagonalization (0 is good): 0
+Kpoint: 71
+Error value from Diagonalization (0 is good): 0
+Kpoint: 72
+Error value from Diagonalization (0 is good): 0
+Kpoint: 73
+Error value from Diagonalization (0 is good): 0
+Kpoint: 74
+Error value from Diagonalization (0 is good): 0
+Kpoint: 75
+Error value from Diagonalization (0 is good): 0
+Kpoint: 76
+Error value from Diagonalization (0 is good): 0
+Kpoint: 77
+Error value from Diagonalization (0 is good): 0
+Kpoint: 78
+Error value from Diagonalization (0 is good): 0
+Kpoint: 79
+Error value from Diagonalization (0 is good): 0
+Kpoint: 80
+Error value from Diagonalization (0 is good): 0
+Kpoint: 81
+Error value from Diagonalization (0 is good): 0
+Kpoint: 82
+Error value from Diagonalization (0 is good): 0
+Kpoint: 83
+Error value from Diagonalization (0 is good): 0
+Kpoint: 84
+Error value from Diagonalization (0 is good): 0
+Kpoint: 85
+Error value from Diagonalization (0 is good): 0
+Kpoint: 86
+Error value from Diagonalization (0 is good): 0
+Kpoint: 87
+Error value from Diagonalization (0 is good): 0
+Kpoint: 88
+Error value from Diagonalization (0 is good): 0
+Kpoint: 89
+Error value from Diagonalization (0 is good): 0
+Kpoint: 90
+Error value from Diagonalization (0 is good): 0
+Kpoint: 91
+Error value from Diagonalization (0 is good): 0
+Kpoint: 92
+Error value from Diagonalization (0 is good): 0
+Kpoint: 93
+Error value from Diagonalization (0 is good): 0
+Kpoint: 94
+Error value from Diagonalization (0 is good): 0
+Kpoint: 95
+Error value from Diagonalization (0 is good): 0
+Kpoint: 96
+Error value from Diagonalization (0 is good): 0
+Kpoint: 97
+Error value from Diagonalization (0 is good): 0
+Kpoint: 98
+Error value from Diagonalization (0 is good): 0
+Kpoint: 99
+Error value from Diagonalization (0 is good): 0
+Kpoint: 100
+Error value from Diagonalization (0 is good): 0
+Kpoint: 101
+Error value from Diagonalization (0 is good): 0
+Kpoint: 102
+Error value from Diagonalization (0 is good): 0
+Kpoint: 103
+Error value from Diagonalization (0 is good): 0
+Kpoint: 104
+Error value from Diagonalization (0 is good): 0
+Kpoint: 105
+Error value from Diagonalization (0 is good): 0
+Kpoint: 106
+Error value from Diagonalization (0 is good): 0
+Kpoint: 107
+Error value from Diagonalization (0 is good): 0
+Kpoint: 108
+Error value from Diagonalization (0 is good): 0
+Kpoint: 109
+Error value from Diagonalization (0 is good): 0
+Kpoint: 110
+Error value from Diagonalization (0 is good): 0
+Kpoint: 111
+Error value from Diagonalization (0 is good): 0
+Kpoint: 112
+Error value from Diagonalization (0 is good): 0
+Kpoint: 113
+Error value from Diagonalization (0 is good): 0
+Kpoint: 114
+Error value from Diagonalization (0 is good): 0
+Kpoint: 115
+Error value from Diagonalization (0 is good): 0
+Kpoint: 116
+Error value from Diagonalization (0 is good): 0
+Kpoint: 117
+Error value from Diagonalization (0 is good): 0
+Kpoint: 118
+Error value from Diagonalization (0 is good): 0
+Kpoint: 119
+Error value from Diagonalization (0 is good): 0
+Kpoint: 120
+Error value from Diagonalization (0 is good): 0
+Kpoint: 121
+Error value from Diagonalization (0 is good): 0
+Kpoint: 122
+Error value from Diagonalization (0 is good): 0
+Kpoint: 123
+Error value from Diagonalization (0 is good): 0
+Kpoint: 124
+Error value from Diagonalization (0 is good): 0
+Kpoint: 125
+Error value from Diagonalization (0 is good): 0
+Kpoint: 126
+Error value from Diagonalization (0 is good): 0
+Kpoint: 127
+Error value from Diagonalization (0 is good): 0
+Kpoint: 128
+Error value from Diagonalization (0 is good): 0
+Kpoint: 129
+Error value from Diagonalization (0 is good): 0
+Kpoint: 130
+Error value from Diagonalization (0 is good): 0
+Kpoint: 131
+Error value from Diagonalization (0 is good): 0
+Kpoint: 132
+Error value from Diagonalization (0 is good): 0
+Kpoint: 133
+Error value from Diagonalization (0 is good): 0
+Kpoint: 134
+Error value from Diagonalization (0 is good): 0
+Kpoint: 135
+Error value from Diagonalization (0 is good): 0
+Kpoint: 136
+Error value from Diagonalization (0 is good): 0
+Kpoint: 137
+Error value from Diagonalization (0 is good): 0
+Kpoint: 138
+Error value from Diagonalization (0 is good): 0
+Kpoint: 139
+Error value from Diagonalization (0 is good): 0
+Kpoint: 140
+Error value from Diagonalization (0 is good): 0
+Kpoint: 141
+Error value from Diagonalization (0 is good): 0
+Kpoint: 142
+Error value from Diagonalization (0 is good): 0
+Kpoint: 143
+Error value from Diagonalization (0 is good): 0
+Kpoint: 144
+Error value from Diagonalization (0 is good): 0
+Kpoint: 145
+Error value from Diagonalization (0 is good): 0
+Kpoint: 146
+Error value from Diagonalization (0 is good): 0
+Kpoint: 147
+Error value from Diagonalization (0 is good): 0
+Kpoint: 148
+Error value from Diagonalization (0 is good): 0
+Kpoint: 149
+Error value from Diagonalization (0 is good): 0
+Kpoint: 150
+Error value from Diagonalization (0 is good): 0
+Kpoint: 151
+Error value from Diagonalization (0 is good): 0
+Kpoint: 152
+Error value from Diagonalization (0 is good): 0
+Kpoint: 153
+Error value from Diagonalization (0 is good): 0
+Kpoint: 154
+Error value from Diagonalization (0 is good): 0
+Kpoint: 155
+Error value from Diagonalization (0 is good): 0
+Kpoint: 156
+Error value from Diagonalization (0 is good): 0
+Kpoint: 157
+Error value from Diagonalization (0 is good): 0
+Kpoint: 158
+Error value from Diagonalization (0 is good): 0
+Kpoint: 159
+Error value from Diagonalization (0 is good): 0
+Kpoint: 160
+Error value from Diagonalization (0 is good): 0
+Kpoint: 161
+Error value from Diagonalization (0 is good): 0
+Kpoint: 162
+Error value from Diagonalization (0 is good): 0
+Kpoint: 163
+Error value from Diagonalization (0 is good): 0
+Kpoint: 164
+Error value from Diagonalization (0 is good): 0
+Kpoint: 165
+Error value from Diagonalization (0 is good): 0
+Kpoint: 166
+Error value from Diagonalization (0 is good): 0
+Kpoint: 167
+Error value from Diagonalization (0 is good): 0
+Kpoint: 168
+Error value from Diagonalization (0 is good): 0
+Kpoint: 169
+Error value from Diagonalization (0 is good): 0
+Kpoint: 170
+Error value from Diagonalization (0 is good): 0
+Kpoint: 171
+Error value from Diagonalization (0 is good): 0
+Kpoint: 172
+Error value from Diagonalization (0 is good): 0
+Kpoint: 173
+Error value from Diagonalization (0 is good): 0
+Kpoint: 174
+Error value from Diagonalization (0 is good): 0
+Kpoint: 175
+Error value from Diagonalization (0 is good): 0
+Kpoint: 176
+Error value from Diagonalization (0 is good): 0
+Kpoint: 177
+Error value from Diagonalization (0 is good): 0
+Kpoint: 178
+Error value from Diagonalization (0 is good): 0
+Kpoint: 179
+Error value from Diagonalization (0 is good): 0
+Kpoint: 180
+Error value from Diagonalization (0 is good): 0
+Kpoint: 181
+Error value from Diagonalization (0 is good): 0
+Kpoint: 182
+Error value from Diagonalization (0 is good): 0
+Kpoint: 183
+Error value from Diagonalization (0 is good): 0
+Kpoint: 184
+Error value from Diagonalization (0 is good): 0
+Kpoint: 185
+Error value from Diagonalization (0 is good): 0
+Kpoint: 186
+Error value from Diagonalization (0 is good): 0
+Kpoint: 187
+Error value from Diagonalization (0 is good): 0
+Kpoint: 188
+Error value from Diagonalization (0 is good): 0
+Kpoint: 189
+Error value from Diagonalization (0 is good): 0
+Kpoint: 190
+Error value from Diagonalization (0 is good): 0
+Kpoint: 191
+Error value from Diagonalization (0 is good): 0
+Kpoint: 192
+Error value from Diagonalization (0 is good): 0
+Kpoint: 193
+Error value from Diagonalization (0 is good): 0
+Kpoint: 194
+Error value from Diagonalization (0 is good): 0
+Kpoint: 195
+Error value from Diagonalization (0 is good): 0
+Kpoint: 196
+Error value from Diagonalization (0 is good): 0
+Kpoint: 197
+Error value from Diagonalization (0 is good): 0
+Kpoint: 198
+Error value from Diagonalization (0 is good): 0
+Kpoint: 199
+Error value from Diagonalization (0 is good): 0
+Kpoint: 200
+Error value from Diagonalization (0 is good): 0
+Kpoint: 201
+Error value from Diagonalization (0 is good): 0
+Kpoint: 202
+Error value from Diagonalization (0 is good): 0
+Kpoint: 203
+Error value from Diagonalization (0 is good): 0
+Kpoint: 204
+Error value from Diagonalization (0 is good): 0
+Kpoint: 205
+Error value from Diagonalization (0 is good): 0
+Kpoint: 206
+Error value from Diagonalization (0 is good): 0
+Kpoint: 207
+Error value from Diagonalization (0 is good): 0
+Kpoint: 208
+Error value from Diagonalization (0 is good): 0
+Kpoint: 209
+Error value from Diagonalization (0 is good): 0
+Kpoint: 210
+Error value from Diagonalization (0 is good): 0
+Kpoint: 211
+Error value from Diagonalization (0 is good): 0
+Kpoint: 212
+Error value from Diagonalization (0 is good): 0
+Kpoint: 213
+Error value from Diagonalization (0 is good): 0
+Kpoint: 214
+Error value from Diagonalization (0 is good): 0
+Kpoint: 215
+Error value from Diagonalization (0 is good): 0
+Kpoint: 216
+Error value from Diagonalization (0 is good): 0
+Kpoint: 217
+Error value from Diagonalization (0 is good): 0
+Kpoint: 218
+Error value from Diagonalization (0 is good): 0
+Kpoint: 219
+Error value from Diagonalization (0 is good): 0
+Kpoint: 220
+Error value from Diagonalization (0 is good): 0
+Kpoint: 221
+Error value from Diagonalization (0 is good): 0
+Kpoint: 222
+Error value from Diagonalization (0 is good): 0
+Kpoint: 223
+Error value from Diagonalization (0 is good): 0
+Kpoint: 224
+Error value from Diagonalization (0 is good): 0
+Kpoint: 225
+Error value from Diagonalization (0 is good): 0
+Kpoint: 226
+Error value from Diagonalization (0 is good): 0
+Kpoint: 227
+Error value from Diagonalization (0 is good): 0
+Kpoint: 228
+Error value from Diagonalization (0 is good): 0
+Kpoint: 229
+Error value from Diagonalization (0 is good): 0
+Kpoint: 230
+Error value from Diagonalization (0 is good): 0
+Kpoint: 231
+Error value from Diagonalization (0 is good): 0
+Kpoint: 232
+Error value from Diagonalization (0 is good): 0
+Kpoint: 233
+Error value from Diagonalization (0 is good): 0
+Kpoint: 234
+Error value from Diagonalization (0 is good): 0
+Kpoint: 235
+Error value from Diagonalization (0 is good): 0
+Kpoint: 236
+Error value from Diagonalization (0 is good): 0
+Kpoint: 237
+Error value from Diagonalization (0 is good): 0
+Kpoint: 238
+Error value from Diagonalization (0 is good): 0
+Kpoint: 239
+Error value from Diagonalization (0 is good): 0
+Kpoint: 240
+Error value from Diagonalization (0 is good): 0
+Kpoint: 241
+Error value from Diagonalization (0 is good): 0
+Kpoint: 242
+Error value from Diagonalization (0 is good): 0
+Kpoint: 243
+Error value from Diagonalization (0 is good): 0
+Kpoint: 244
+Error value from Diagonalization (0 is good): 0
+Kpoint: 245
+Error value from Diagonalization (0 is good): 0
+Kpoint: 246
+Error value from Diagonalization (0 is good): 0
+Kpoint: 247
+Error value from Diagonalization (0 is good): 0
+Kpoint: 248
+Error value from Diagonalization (0 is good): 0
+Kpoint: 249
+Error value from Diagonalization (0 is good): 0
+Kpoint: 250
+Error value from Diagonalization (0 is good): 0
+Kpoint: 251
+Error value from Diagonalization (0 is good): 0
+Kpoint: 252
+Error value from Diagonalization (0 is good): 0
+Kpoint: 253
+Error value from Diagonalization (0 is good): 0
+Kpoint: 254
+Error value from Diagonalization (0 is good): 0
+Kpoint: 255
+Error value from Diagonalization (0 is good): 0
+Kpoint: 256
+Error value from Diagonalization (0 is good): 0
+Kpoint: 257
+Error value from Diagonalization (0 is good): 0
+Kpoint: 258
+Error value from Diagonalization (0 is good): 0
+Kpoint: 259
+Error value from Diagonalization (0 is good): 0
+Kpoint: 260
+Error value from Diagonalization (0 is good): 0
+Kpoint: 261
+Error value from Diagonalization (0 is good): 0
+Kpoint: 262
+Error value from Diagonalization (0 is good): 0
+Kpoint: 263
+Error value from Diagonalization (0 is good): 0
+Kpoint: 264
+Error value from Diagonalization (0 is good): 0
+Kpoint: 265
+Error value from Diagonalization (0 is good): 0
+Kpoint: 266
+Error value from Diagonalization (0 is good): 0
+Kpoint: 267
+Error value from Diagonalization (0 is good): 0
+Kpoint: 268
+Error value from Diagonalization (0 is good): 0
+Kpoint: 269
+Error value from Diagonalization (0 is good): 0
+Kpoint: 270
+Error value from Diagonalization (0 is good): 0
+Kpoint: 271
+Error value from Diagonalization (0 is good): 0
+Kpoint: 272
+Error value from Diagonalization (0 is good): 0
+Kpoint: 273
+Error value from Diagonalization (0 is good): 0
+Kpoint: 274
+Error value from Diagonalization (0 is good): 0
+Kpoint: 275
+Error value from Diagonalization (0 is good): 0
+Kpoint: 276
+Error value from Diagonalization (0 is good): 0
+Kpoint: 277
+Error value from Diagonalization (0 is good): 0
+Kpoint: 278
+Error value from Diagonalization (0 is good): 0
+Kpoint: 279
+Error value from Diagonalization (0 is good): 0
+Kpoint: 280
+Error value from Diagonalization (0 is good): 0
+Kpoint: 281
+Error value from Diagonalization (0 is good): 0
+Kpoint: 282
+Error value from Diagonalization (0 is good): 0
+Kpoint: 283
+Error value from Diagonalization (0 is good): 0
+Kpoint: 284
+Error value from Diagonalization (0 is good): 0
+Kpoint: 285
+Error value from Diagonalization (0 is good): 0
+Kpoint: 286
+Error value from Diagonalization (0 is good): 0
+Kpoint: 287
+Error value from Diagonalization (0 is good): 0
+Kpoint: 288
+Error value from Diagonalization (0 is good): 0
+Kpoint: 289
+Error value from Diagonalization (0 is good): 0
+Kpoint: 290
+Error value from Diagonalization (0 is good): 0
+Kpoint: 291
+Error value from Diagonalization (0 is good): 0
+Kpoint: 292
+Error value from Diagonalization (0 is good): 0
+Kpoint: 293
+Error value from Diagonalization (0 is good): 0
+Kpoint: 294
+Error value from Diagonalization (0 is good): 0
+Kpoint: 295
+Error value from Diagonalization (0 is good): 0
+Kpoint: 296
+Error value from Diagonalization (0 is good): 0
+Kpoint: 297
+Error value from Diagonalization (0 is good): 0
+Kpoint: 298
+Error value from Diagonalization (0 is good): 0
+Kpoint: 299
+Error value from Diagonalization (0 is good): 0
+Kpoint: 300
+Error value from Diagonalization (0 is good): 0
+Kpoint: 301
+Error value from Diagonalization (0 is good): 0
+Kpoint: 302
+Error value from Diagonalization (0 is good): 0
+Kpoint: 303
+Error value from Diagonalization (0 is good): 0
+Kpoint: 304
+Error value from Diagonalization (0 is good): 0
+Kpoint: 305
+Error value from Diagonalization (0 is good): 0
+Kpoint: 306
+Error value from Diagonalization (0 is good): 0
+Kpoint: 307
+Error value from Diagonalization (0 is good): 0
+Kpoint: 308
+Error value from Diagonalization (0 is good): 0
+Kpoint: 309
+Error value from Diagonalization (0 is good): 0
+Kpoint: 310
+Error value from Diagonalization (0 is good): 0
+Kpoint: 311
+Error value from Diagonalization (0 is good): 0
+Kpoint: 312
+Error value from Diagonalization (0 is good): 0
+Kpoint: 313
+Error value from Diagonalization (0 is good): 0
+Kpoint: 314
+Error value from Diagonalization (0 is good): 0
+Kpoint: 315
+Error value from Diagonalization (0 is good): 0
+Kpoint: 316
+Error value from Diagonalization (0 is good): 0
+Kpoint: 317
+Error value from Diagonalization (0 is good): 0
+Kpoint: 318
+Error value from Diagonalization (0 is good): 0
+Kpoint: 319
+Error value from Diagonalization (0 is good): 0
+Kpoint: 320
+Error value from Diagonalization (0 is good): 0
+Kpoint: 321
+Error value from Diagonalization (0 is good): 0
+Kpoint: 322
+Error value from Diagonalization (0 is good): 0
+Kpoint: 323
+Error value from Diagonalization (0 is good): 0
+Kpoint: 324
+Error value from Diagonalization (0 is good): 0
+Kpoint: 325
+Error value from Diagonalization (0 is good): 0
+Kpoint: 326
+Error value from Diagonalization (0 is good): 0
+Kpoint: 327
+Error value from Diagonalization (0 is good): 0
+Kpoint: 328
+Error value from Diagonalization (0 is good): 0
+Kpoint: 329
+Error value from Diagonalization (0 is good): 0
+Kpoint: 330
+Error value from Diagonalization (0 is good): 0
+Kpoint: 331
+Error value from Diagonalization (0 is good): 0
+Kpoint: 332
+Error value from Diagonalization (0 is good): 0
+Kpoint: 333
+Error value from Diagonalization (0 is good): 0
+Kpoint: 334
+Error value from Diagonalization (0 is good): 0
+Kpoint: 335
+Error value from Diagonalization (0 is good): 0
+Kpoint: 336
+Error value from Diagonalization (0 is good): 0
+Kpoint: 337
+Error value from Diagonalization (0 is good): 0
+Kpoint: 338
+Error value from Diagonalization (0 is good): 0
+Kpoint: 339
+Error value from Diagonalization (0 is good): 0
+Kpoint: 340
+Error value from Diagonalization (0 is good): 0
+Kpoint: 341
+Error value from Diagonalization (0 is good): 0
+Kpoint: 342
+Error value from Diagonalization (0 is good): 0
+Kpoint: 343
+Error value from Diagonalization (0 is good): 0
+Kpoint: 344
+Error value from Diagonalization (0 is good): 0
+Kpoint: 345
+Error value from Diagonalization (0 is good): 0
+Kpoint: 346
+Error value from Diagonalization (0 is good): 0
+Kpoint: 347
+Error value from Diagonalization (0 is good): 0
+Kpoint: 348
+Error value from Diagonalization (0 is good): 0
+Kpoint: 349
+Error value from Diagonalization (0 is good): 0
+Kpoint: 350
+Error value from Diagonalization (0 is good): 0
+Kpoint: 351
+Error value from Diagonalization (0 is good): 0
+Kpoint: 352
+Error value from Diagonalization (0 is good): 0
+Kpoint: 353
+Error value from Diagonalization (0 is good): 0
+Kpoint: 354
+Error value from Diagonalization (0 is good): 0
+Kpoint: 355
+Error value from Diagonalization (0 is good): 0
+Kpoint: 356
+Error value from Diagonalization (0 is good): 0
+Kpoint: 357
+Error value from Diagonalization (0 is good): 0
+Kpoint: 358
+Error value from Diagonalization (0 is good): 0
+Kpoint: 359
+Error value from Diagonalization (0 is good): 0
+Kpoint: 360
+Error value from Diagonalization (0 is good): 0
+Kpoint: 361
+Error value from Diagonalization (0 is good): 0
+Kpoint: 362
+Error value from Diagonalization (0 is good): 0
+Kpoint: 363
+Error value from Diagonalization (0 is good): 0
+Kpoint: 364
+Error value from Diagonalization (0 is good): 0
+Kpoint: 365
+Error value from Diagonalization (0 is good): 0
+Kpoint: 366
+Error value from Diagonalization (0 is good): 0
+Kpoint: 367
+Error value from Diagonalization (0 is good): 0
+Kpoint: 368
+Error value from Diagonalization (0 is good): 0
+Kpoint: 369
+Error value from Diagonalization (0 is good): 0
+Kpoint: 370
+Error value from Diagonalization (0 is good): 0
+Kpoint: 371
+Error value from Diagonalization (0 is good): 0
+Kpoint: 372
+Error value from Diagonalization (0 is good): 0
+Kpoint: 373
+Error value from Diagonalization (0 is good): 0
+Kpoint: 374
+Error value from Diagonalization (0 is good): 0
+Kpoint: 375
+Error value from Diagonalization (0 is good): 0
+Kpoint: 376
+Error value from Diagonalization (0 is good): 0
+Kpoint: 377
+Error value from Diagonalization (0 is good): 0
+Kpoint: 378
+Error value from Diagonalization (0 is good): 0
+Kpoint: 379
+Error value from Diagonalization (0 is good): 0
+Kpoint: 380
+Error value from Diagonalization (0 is good): 0
+Kpoint: 381
+Error value from Diagonalization (0 is good): 0
+Kpoint: 382
+Error value from Diagonalization (0 is good): 0
+Kpoint: 383
+Error value from Diagonalization (0 is good): 0
+Kpoint: 384
+Error value from Diagonalization (0 is good): 0
+Kpoint: 385
+Error value from Diagonalization (0 is good): 0
+Kpoint: 386
+Error value from Diagonalization (0 is good): 0
+Kpoint: 387
+Error value from Diagonalization (0 is good): 0
+Kpoint: 388
+Error value from Diagonalization (0 is good): 0
+Kpoint: 389
+Error value from Diagonalization (0 is good): 0
+Kpoint: 390
+Error value from Diagonalization (0 is good): 0
+Kpoint: 391
+Error value from Diagonalization (0 is good): 0
+Kpoint: 392
+Error value from Diagonalization (0 is good): 0
+Kpoint: 393
+Error value from Diagonalization (0 is good): 0
+Kpoint: 394
+Error value from Diagonalization (0 is good): 0
+Kpoint: 395
+Error value from Diagonalization (0 is good): 0
+Kpoint: 396
+Error value from Diagonalization (0 is good): 0
+Kpoint: 397
+Error value from Diagonalization (0 is good): 0
+Kpoint: 398
+Error value from Diagonalization (0 is good): 0
+Kpoint: 399
+Error value from Diagonalization (0 is good): 0
+Kpoint: 400
+Error value from Diagonalization (0 is good): 0
+Kpoint: 401
+Error value from Diagonalization (0 is good): 0
+Kpoint: 402
+Error value from Diagonalization (0 is good): 0
+Kpoint: 403
+Error value from Diagonalization (0 is good): 0
+Kpoint: 404
+Error value from Diagonalization (0 is good): 0
+Kpoint: 405
+Error value from Diagonalization (0 is good): 0
+Kpoint: 406
+Error value from Diagonalization (0 is good): 0
+Kpoint: 407
+Error value from Diagonalization (0 is good): 0
+Kpoint: 408
+Error value from Diagonalization (0 is good): 0
+Kpoint: 409
+Error value from Diagonalization (0 is good): 0
+Kpoint: 410
+Error value from Diagonalization (0 is good): 0
+Kpoint: 411
+Error value from Diagonalization (0 is good): 0
+Kpoint: 412
+Error value from Diagonalization (0 is good): 0
+Kpoint: 413
+Error value from Diagonalization (0 is good): 0
+Kpoint: 414
+Error value from Diagonalization (0 is good): 0
+Kpoint: 415
+Error value from Diagonalization (0 is good): 0
+Kpoint: 416
+Error value from Diagonalization (0 is good): 0
+Kpoint: 417
+Error value from Diagonalization (0 is good): 0
+Kpoint: 418
+Error value from Diagonalization (0 is good): 0
+Kpoint: 419
+Error value from Diagonalization (0 is good): 0
+Kpoint: 420
+Error value from Diagonalization (0 is good): 0
+Kpoint: 421
+Error value from Diagonalization (0 is good): 0
+Kpoint: 422
+Error value from Diagonalization (0 is good): 0
+Kpoint: 423
+Error value from Diagonalization (0 is good): 0
+Kpoint: 424
+Error value from Diagonalization (0 is good): 0
+Kpoint: 425
+Error value from Diagonalization (0 is good): 0
+Kpoint: 426
+Error value from Diagonalization (0 is good): 0
+Kpoint: 427
+Error value from Diagonalization (0 is good): 0
+Kpoint: 428
+Error value from Diagonalization (0 is good): 0
+Kpoint: 429
+Error value from Diagonalization (0 is good): 0
+Kpoint: 430
+Error value from Diagonalization (0 is good): 0
+Kpoint: 431
+Error value from Diagonalization (0 is good): 0
+Kpoint: 432
+Error value from Diagonalization (0 is good): 0
+Kpoint: 433
+Error value from Diagonalization (0 is good): 0
+Kpoint: 434
+Error value from Diagonalization (0 is good): 0
+Kpoint: 435
+Error value from Diagonalization (0 is good): 0
+Kpoint: 436
+Error value from Diagonalization (0 is good): 0
+Kpoint: 437
+Error value from Diagonalization (0 is good): 0
+Kpoint: 438
+Error value from Diagonalization (0 is good): 0
+Kpoint: 439
+Error value from Diagonalization (0 is good): 0
+Kpoint: 440
+Error value from Diagonalization (0 is good): 0
+Kpoint: 441
+Error value from Diagonalization (0 is good): 0
+Kpoint: 442
+Error value from Diagonalization (0 is good): 0
+Kpoint: 443
+Error value from Diagonalization (0 is good): 0
+Kpoint: 444
+Error value from Diagonalization (0 is good): 0
+Kpoint: 445
+Error value from Diagonalization (0 is good): 0
+Kpoint: 446
+Error value from Diagonalization (0 is good): 0
+Kpoint: 447
+Error value from Diagonalization (0 is good): 0
+Kpoint: 448
+Error value from Diagonalization (0 is good): 0
+Kpoint: 449
+Error value from Diagonalization (0 is good): 0
+Kpoint: 450
+Error value from Diagonalization (0 is good): 0
+Kpoint: 451
+Error value from Diagonalization (0 is good): 0
+Kpoint: 452
+Error value from Diagonalization (0 is good): 0
+Kpoint: 453
+Error value from Diagonalization (0 is good): 0
+Kpoint: 454
+Error value from Diagonalization (0 is good): 0
+Kpoint: 455
+Error value from Diagonalization (0 is good): 0
+Kpoint: 456
+Error value from Diagonalization (0 is good): 0
+Kpoint: 457
+Error value from Diagonalization (0 is good): 0
+Kpoint: 458
+Error value from Diagonalization (0 is good): 0
+Kpoint: 459
+Error value from Diagonalization (0 is good): 0
+Kpoint: 460
+Error value from Diagonalization (0 is good): 0
+Kpoint: 461
+Error value from Diagonalization (0 is good): 0
+Kpoint: 462
+Error value from Diagonalization (0 is good): 0
+Kpoint: 463
+Error value from Diagonalization (0 is good): 0
+Kpoint: 464
+Error value from Diagonalization (0 is good): 0
+Kpoint: 465
+Error value from Diagonalization (0 is good): 0
+Kpoint: 466
+Error value from Diagonalization (0 is good): 0
+Kpoint: 467
+Error value from Diagonalization (0 is good): 0
+Kpoint: 468
+Error value from Diagonalization (0 is good): 0
+Kpoint: 469
+Error value from Diagonalization (0 is good): 0
+Kpoint: 470
+Error value from Diagonalization (0 is good): 0
+Kpoint: 471
+Error value from Diagonalization (0 is good): 0
+Kpoint: 472
+Error value from Diagonalization (0 is good): 0
+Kpoint: 473
+Error value from Diagonalization (0 is good): 0
+Kpoint: 474
+Error value from Diagonalization (0 is good): 0
+Kpoint: 475
+Error value from Diagonalization (0 is good): 0
+Kpoint: 476
+Error value from Diagonalization (0 is good): 0
+Kpoint: 477
+Error value from Diagonalization (0 is good): 0
+Kpoint: 478
+Error value from Diagonalization (0 is good): 0
+Kpoint: 479
+Error value from Diagonalization (0 is good): 0
+Kpoint: 480
+Error value from Diagonalization (0 is good): 0
+Kpoint: 481
+Error value from Diagonalization (0 is good): 0
+Kpoint: 482
+Error value from Diagonalization (0 is good): 0
+Kpoint: 483
+Error value from Diagonalization (0 is good): 0
+Kpoint: 484
+Error value from Diagonalization (0 is good): 0
+Kpoint: 485
+Error value from Diagonalization (0 is good): 0
+Kpoint: 486
+Error value from Diagonalization (0 is good): 0
+Kpoint: 487
+Error value from Diagonalization (0 is good): 0
+Kpoint: 488
+Error value from Diagonalization (0 is good): 0
+Kpoint: 489
+Error value from Diagonalization (0 is good): 0
+Kpoint: 490
+Error value from Diagonalization (0 is good): 0
+Kpoint: 491
+Error value from Diagonalization (0 is good): 0
+Kpoint: 492
+Error value from Diagonalization (0 is good): 0
+Kpoint: 493
+Error value from Diagonalization (0 is good): 0
+Kpoint: 494
+Error value from Diagonalization (0 is good): 0
+Kpoint: 495
+Error value from Diagonalization (0 is good): 0
+Kpoint: 496
+Error value from Diagonalization (0 is good): 0
+Kpoint: 497
+Error value from Diagonalization (0 is good): 0
+Kpoint: 498
+Error value from Diagonalization (0 is good): 0
+Kpoint: 499
+Error value from Diagonalization (0 is good): 0
+Kpoint: 500
+Error value from Diagonalization (0 is good): 0
+Kpoint: 501
+Error value from Diagonalization (0 is good): 0
+Kpoint: 502
+Error value from Diagonalization (0 is good): 0
+Kpoint: 503
+Error value from Diagonalization (0 is good): 0
+Kpoint: 504
+Error value from Diagonalization (0 is good): 0
+Kpoint: 505
+Error value from Diagonalization (0 is good): 0
+Kpoint: 506
+Error value from Diagonalization (0 is good): 0
+Kpoint: 507
+Error value from Diagonalization (0 is good): 0
+Kpoint: 508
+Error value from Diagonalization (0 is good): 0
+Kpoint: 509
+Error value from Diagonalization (0 is good): 0
+Kpoint: 510
+Error value from Diagonalization (0 is good): 0
+Kpoint: 511
+Error value from Diagonalization (0 is good): 0
+Kpoint: 512
+Error value from Diagonalization (0 is good): 0
+Kpoint: 513
+Error value from Diagonalization (0 is good): 0
+Kpoint: 514
+Error value from Diagonalization (0 is good): 0
+Kpoint: 515
+Error value from Diagonalization (0 is good): 0
+Kpoint: 516
+Error value from Diagonalization (0 is good): 0
+Kpoint: 517
+Error value from Diagonalization (0 is good): 0
+Kpoint: 518
+Error value from Diagonalization (0 is good): 0
+Kpoint: 519
+Error value from Diagonalization (0 is good): 0
+Kpoint: 520
+Error value from Diagonalization (0 is good): 0
+Kpoint: 521
+Error value from Diagonalization (0 is good): 0
+Kpoint: 522
+Error value from Diagonalization (0 is good): 0
+Kpoint: 523
+Error value from Diagonalization (0 is good): 0
+Kpoint: 524
+Error value from Diagonalization (0 is good): 0
+Kpoint: 525
+Error value from Diagonalization (0 is good): 0
+Kpoint: 526
+Error value from Diagonalization (0 is good): 0
+Kpoint: 527
+Error value from Diagonalization (0 is good): 0
+Kpoint: 528
+Error value from Diagonalization (0 is good): 0
+Kpoint: 529
+Error value from Diagonalization (0 is good): 0
+Kpoint: 530
+Error value from Diagonalization (0 is good): 0
+Kpoint: 531
+Error value from Diagonalization (0 is good): 0
+Kpoint: 532
+Error value from Diagonalization (0 is good): 0
+Kpoint: 533
+Error value from Diagonalization (0 is good): 0
+Kpoint: 534
+Error value from Diagonalization (0 is good): 0
+Kpoint: 535
+Error value from Diagonalization (0 is good): 0
+Kpoint: 536
+Error value from Diagonalization (0 is good): 0
+Kpoint: 537
+Error value from Diagonalization (0 is good): 0
+Kpoint: 538
+Error value from Diagonalization (0 is good): 0
+Kpoint: 539
+Error value from Diagonalization (0 is good): 0
+Kpoint: 540
+Error value from Diagonalization (0 is good): 0
+Kpoint: 541
+Error value from Diagonalization (0 is good): 0
+Kpoint: 542
+Error value from Diagonalization (0 is good): 0
+Kpoint: 543
+Error value from Diagonalization (0 is good): 0
+Kpoint: 544
+Error value from Diagonalization (0 is good): 0
+Kpoint: 545
+Error value from Diagonalization (0 is good): 0
+Kpoint: 546
+Error value from Diagonalization (0 is good): 0
+Kpoint: 547
+Error value from Diagonalization (0 is good): 0
+Kpoint: 548
+Error value from Diagonalization (0 is good): 0
+Kpoint: 549
+Error value from Diagonalization (0 is good): 0
+Kpoint: 550
+Error value from Diagonalization (0 is good): 0
+Kpoint: 551
+Error value from Diagonalization (0 is good): 0
+Kpoint: 552
+Error value from Diagonalization (0 is good): 0
+Kpoint: 553
+Error value from Diagonalization (0 is good): 0
+Kpoint: 554
+Error value from Diagonalization (0 is good): 0
+Kpoint: 555
+Error value from Diagonalization (0 is good): 0
+Kpoint: 556
+Error value from Diagonalization (0 is good): 0
+Kpoint: 557
+Error value from Diagonalization (0 is good): 0
+Kpoint: 558
+Error value from Diagonalization (0 is good): 0
+Kpoint: 559
+Error value from Diagonalization (0 is good): 0
+Kpoint: 560
+Error value from Diagonalization (0 is good): 0
+Kpoint: 561
+Error value from Diagonalization (0 is good): 0
+Kpoint: 562
+Error value from Diagonalization (0 is good): 0
+Kpoint: 563
+Error value from Diagonalization (0 is good): 0
+Kpoint: 564
+Error value from Diagonalization (0 is good): 0
+Kpoint: 565
+Error value from Diagonalization (0 is good): 0
+Kpoint: 566
+Error value from Diagonalization (0 is good): 0
+Kpoint: 567
+Error value from Diagonalization (0 is good): 0
+Kpoint: 568
+Error value from Diagonalization (0 is good): 0
+Kpoint: 569
+Error value from Diagonalization (0 is good): 0
+Kpoint: 570
+Error value from Diagonalization (0 is good): 0
+Kpoint: 571
+Error value from Diagonalization (0 is good): 0
+Kpoint: 572
+Error value from Diagonalization (0 is good): 0
+Kpoint: 573
+Error value from Diagonalization (0 is good): 0
+Kpoint: 574
+Error value from Diagonalization (0 is good): 0
+Kpoint: 575
+Error value from Diagonalization (0 is good): 0
+Kpoint: 576
+Error value from Diagonalization (0 is good): 0
+Kpoint: 577
+Error value from Diagonalization (0 is good): 0
+Kpoint: 578
+Error value from Diagonalization (0 is good): 0
+Kpoint: 579
+Error value from Diagonalization (0 is good): 0
+Kpoint: 580
+Error value from Diagonalization (0 is good): 0
+Kpoint: 581
+Error value from Diagonalization (0 is good): 0
+Kpoint: 582
+Error value from Diagonalization (0 is good): 0
+Kpoint: 583
+Error value from Diagonalization (0 is good): 0
+Kpoint: 584
+Error value from Diagonalization (0 is good): 0
+Kpoint: 585
+Error value from Diagonalization (0 is good): 0
+Kpoint: 586
+Error value from Diagonalization (0 is good): 0
+Kpoint: 587
+Error value from Diagonalization (0 is good): 0
+Kpoint: 588
+Error value from Diagonalization (0 is good): 0
+Kpoint: 589
+Error value from Diagonalization (0 is good): 0
+Kpoint: 590
+Error value from Diagonalization (0 is good): 0
+Kpoint: 591
+Error value from Diagonalization (0 is good): 0
+Kpoint: 592
+Error value from Diagonalization (0 is good): 0
+Kpoint: 593
+Error value from Diagonalization (0 is good): 0
+Kpoint: 594
+Error value from Diagonalization (0 is good): 0
+Kpoint: 595
+Error value from Diagonalization (0 is good): 0
+Kpoint: 596
+Error value from Diagonalization (0 is good): 0
+Kpoint: 597
+Error value from Diagonalization (0 is good): 0
+Kpoint: 598
+Error value from Diagonalization (0 is good): 0
+Kpoint: 599
+Error value from Diagonalization (0 is good): 0
+Kpoint: 600
+Error value from Diagonalization (0 is good): 0
+Kpoint: 601
+Error value from Diagonalization (0 is good): 0
+Kpoint: 602
+Error value from Diagonalization (0 is good): 0
+Kpoint: 603
+Error value from Diagonalization (0 is good): 0
+Kpoint: 604
+Error value from Diagonalization (0 is good): 0
+Kpoint: 605
+Error value from Diagonalization (0 is good): 0
+Kpoint: 606
+Error value from Diagonalization (0 is good): 0
+Kpoint: 607
+Error value from Diagonalization (0 is good): 0
+Kpoint: 608
+Error value from Diagonalization (0 is good): 0
+Kpoint: 609
+Error value from Diagonalization (0 is good): 0
+Kpoint: 610
+Error value from Diagonalization (0 is good): 0
+Kpoint: 611
+Error value from Diagonalization (0 is good): 0
+Kpoint: 612
+Error value from Diagonalization (0 is good): 0
+Kpoint: 613
+Error value from Diagonalization (0 is good): 0
+Kpoint: 614
+Error value from Diagonalization (0 is good): 0
+Kpoint: 615
+Error value from Diagonalization (0 is good): 0
+Kpoint: 616
+Error value from Diagonalization (0 is good): 0
+Kpoint: 617
+Error value from Diagonalization (0 is good): 0
+Kpoint: 618
+Error value from Diagonalization (0 is good): 0
+Kpoint: 619
+Error value from Diagonalization (0 is good): 0
+Kpoint: 620
+Error value from Diagonalization (0 is good): 0
+Kpoint: 621
+Error value from Diagonalization (0 is good): 0
+Kpoint: 622
+Error value from Diagonalization (0 is good): 0
+Kpoint: 623
+Error value from Diagonalization (0 is good): 0
+Kpoint: 624
+Error value from Diagonalization (0 is good): 0
+Kpoint: 625
+Error value from Diagonalization (0 is good): 0
+Kpoint: 626
+Error value from Diagonalization (0 is good): 0
+Kpoint: 627
+Error value from Diagonalization (0 is good): 0
+Kpoint: 628
+Error value from Diagonalization (0 is good): 0
+Kpoint: 629
+Error value from Diagonalization (0 is good): 0
+Kpoint: 630
+Error value from Diagonalization (0 is good): 0
+Kpoint: 631
+Error value from Diagonalization (0 is good): 0
+Kpoint: 632
+Error value from Diagonalization (0 is good): 0
+Kpoint: 633
+Error value from Diagonalization (0 is good): 0
+Kpoint: 634
+Error value from Diagonalization (0 is good): 0
+Kpoint: 635
+Error value from Diagonalization (0 is good): 0
+Kpoint: 636
+Error value from Diagonalization (0 is good): 0
+Kpoint: 637
+Error value from Diagonalization (0 is good): 0
+Kpoint: 638
+Error value from Diagonalization (0 is good): 0
+Kpoint: 639
+Error value from Diagonalization (0 is good): 0
+Kpoint: 640
+Error value from Diagonalization (0 is good): 0
+Kpoint: 641
+Error value from Diagonalization (0 is good): 0
+Kpoint: 642
+Error value from Diagonalization (0 is good): 0
+Kpoint: 643
+Error value from Diagonalization (0 is good): 0
+Kpoint: 644
+Error value from Diagonalization (0 is good): 0
+Kpoint: 645
+Error value from Diagonalization (0 is good): 0
+Kpoint: 646
+Error value from Diagonalization (0 is good): 0
+Kpoint: 647
+Error value from Diagonalization (0 is good): 0
+Kpoint: 648
+Error value from Diagonalization (0 is good): 0
+Kpoint: 649
+Error value from Diagonalization (0 is good): 0
+Kpoint: 650
+Error value from Diagonalization (0 is good): 0
+Kpoint: 651
+Error value from Diagonalization (0 is good): 0
+Kpoint: 652
+Error value from Diagonalization (0 is good): 0
+Kpoint: 653
+Error value from Diagonalization (0 is good): 0
+Kpoint: 654
+Error value from Diagonalization (0 is good): 0
+Kpoint: 655
+Error value from Diagonalization (0 is good): 0
+Kpoint: 656
+Error value from Diagonalization (0 is good): 0
+Kpoint: 657
+Error value from Diagonalization (0 is good): 0
+Kpoint: 658
+Error value from Diagonalization (0 is good): 0
+Kpoint: 659
+Error value from Diagonalization (0 is good): 0
+Kpoint: 660
+Error value from Diagonalization (0 is good): 0
+Kpoint: 661
+Error value from Diagonalization (0 is good): 0
+Kpoint: 662
+Error value from Diagonalization (0 is good): 0
+Kpoint: 663
+Error value from Diagonalization (0 is good): 0
+Kpoint: 664
+Error value from Diagonalization (0 is good): 0
+Kpoint: 665
+Error value from Diagonalization (0 is good): 0
+Kpoint: 666
+Error value from Diagonalization (0 is good): 0
+Kpoint: 667
+Error value from Diagonalization (0 is good): 0
+Kpoint: 668
+Error value from Diagonalization (0 is good): 0
+Kpoint: 669
+Error value from Diagonalization (0 is good): 0
+Kpoint: 670
+Error value from Diagonalization (0 is good): 0
+Kpoint: 671
+Error value from Diagonalization (0 is good): 0
+Kpoint: 672
+Error value from Diagonalization (0 is good): 0
+Kpoint: 673
+Error value from Diagonalization (0 is good): 0
+Kpoint: 674
+Error value from Diagonalization (0 is good): 0
+Kpoint: 675
+Error value from Diagonalization (0 is good): 0
+Kpoint: 676
+Error value from Diagonalization (0 is good): 0
+Kpoint: 677
+Error value from Diagonalization (0 is good): 0
+Kpoint: 678
+Error value from Diagonalization (0 is good): 0
+Kpoint: 679
+Error value from Diagonalization (0 is good): 0
+Kpoint: 680
+Error value from Diagonalization (0 is good): 0
+Kpoint: 681
+Error value from Diagonalization (0 is good): 0
+Kpoint: 682
+Error value from Diagonalization (0 is good): 0
+Kpoint: 683
+Error value from Diagonalization (0 is good): 0
+Kpoint: 684
+Error value from Diagonalization (0 is good): 0
+Kpoint: 685
+Error value from Diagonalization (0 is good): 0
+Kpoint: 686
+Error value from Diagonalization (0 is good): 0
+Kpoint: 687
+Error value from Diagonalization (0 is good): 0
+Kpoint: 688
+Error value from Diagonalization (0 is good): 0
+Kpoint: 689
+Error value from Diagonalization (0 is good): 0
+Kpoint: 690
+Error value from Diagonalization (0 is good): 0
+Kpoint: 691
+Error value from Diagonalization (0 is good): 0
+Kpoint: 692
+Error value from Diagonalization (0 is good): 0
+Kpoint: 693
+Error value from Diagonalization (0 is good): 0
+Kpoint: 694
+Error value from Diagonalization (0 is good): 0
+Kpoint: 695
+Error value from Diagonalization (0 is good): 0
+Kpoint: 696
+Error value from Diagonalization (0 is good): 0
+Kpoint: 697
+Error value from Diagonalization (0 is good): 0
+Kpoint: 698
+Error value from Diagonalization (0 is good): 0
+Kpoint: 699
+Error value from Diagonalization (0 is good): 0
+Kpoint: 700
+Error value from Diagonalization (0 is good): 0
+Kpoint: 701
+Error value from Diagonalization (0 is good): 0
+Kpoint: 702
+Error value from Diagonalization (0 is good): 0
+Kpoint: 703
+Error value from Diagonalization (0 is good): 0
+Kpoint: 704
+Error value from Diagonalization (0 is good): 0
+Kpoint: 705
+Error value from Diagonalization (0 is good): 0
+Kpoint: 706
+Error value from Diagonalization (0 is good): 0
+Kpoint: 707
+Error value from Diagonalization (0 is good): 0
+Kpoint: 708
+Error value from Diagonalization (0 is good): 0
+Kpoint: 709
+Error value from Diagonalization (0 is good): 0
+Kpoint: 710
+Error value from Diagonalization (0 is good): 0
+Kpoint: 711
+Error value from Diagonalization (0 is good): 0
+Kpoint: 712
+Error value from Diagonalization (0 is good): 0
+Kpoint: 713
+Error value from Diagonalization (0 is good): 0
+Kpoint: 714
+Error value from Diagonalization (0 is good): 0
+Kpoint: 715
+Error value from Diagonalization (0 is good): 0
+Kpoint: 716
+Error value from Diagonalization (0 is good): 0
+Kpoint: 717
+Error value from Diagonalization (0 is good): 0
+Kpoint: 718
+Error value from Diagonalization (0 is good): 0
+Kpoint: 719
+Error value from Diagonalization (0 is good): 0
+Kpoint: 720
+Error value from Diagonalization (0 is good): 0
+Kpoint: 721
+Error value from Diagonalization (0 is good): 0
+Kpoint: 722
+Error value from Diagonalization (0 is good): 0
+Kpoint: 723
+Error value from Diagonalization (0 is good): 0
+Kpoint: 724
+Error value from Diagonalization (0 is good): 0
+Kpoint: 725
+Error value from Diagonalization (0 is good): 0
+Kpoint: 726
+Error value from Diagonalization (0 is good): 0
+Kpoint: 727
+Error value from Diagonalization (0 is good): 0
+Kpoint: 728
+Error value from Diagonalization (0 is good): 0
+Kpoint: 729
+Error value from Diagonalization (0 is good): 0
+Kpoint: 730
+Error value from Diagonalization (0 is good): 0
+Kpoint: 731
+Error value from Diagonalization (0 is good): 0
+Kpoint: 732
+Error value from Diagonalization (0 is good): 0
+Kpoint: 733
+Error value from Diagonalization (0 is good): 0
+Kpoint: 734
+Error value from Diagonalization (0 is good): 0
+Kpoint: 735
+Error value from Diagonalization (0 is good): 0
+Kpoint: 736
+Error value from Diagonalization (0 is good): 0
+Kpoint: 737
+Error value from Diagonalization (0 is good): 0
+Kpoint: 738
+Error value from Diagonalization (0 is good): 0
+Kpoint: 739
+Error value from Diagonalization (0 is good): 0
+Kpoint: 740
+Error value from Diagonalization (0 is good): 0
+Kpoint: 741
+Error value from Diagonalization (0 is good): 0
+Kpoint: 742
+Error value from Diagonalization (0 is good): 0
+Kpoint: 743
+Error value from Diagonalization (0 is good): 0
+Kpoint: 744
+Error value from Diagonalization (0 is good): 0
+Kpoint: 745
+Error value from Diagonalization (0 is good): 0
+Kpoint: 746
+Error value from Diagonalization (0 is good): 0
+Kpoint: 747
+Error value from Diagonalization (0 is good): 0
+Kpoint: 748
+Error value from Diagonalization (0 is good): 0
+Kpoint: 749
+Error value from Diagonalization (0 is good): 0
+Kpoint: 750
+Error value from Diagonalization (0 is good): 0
+Kpoint: 751
+Error value from Diagonalization (0 is good): 0
+Kpoint: 752
+Error value from Diagonalization (0 is good): 0
+Kpoint: 753
+Error value from Diagonalization (0 is good): 0
+Kpoint: 754
+Error value from Diagonalization (0 is good): 0
+Kpoint: 755
+Error value from Diagonalization (0 is good): 0
+Kpoint: 756
+Error value from Diagonalization (0 is good): 0
+Kpoint: 757
+Error value from Diagonalization (0 is good): 0
+Kpoint: 758
+Error value from Diagonalization (0 is good): 0
+Kpoint: 759
+Error value from Diagonalization (0 is good): 0
+Kpoint: 760
+Error value from Diagonalization (0 is good): 0
+Kpoint: 761
+Error value from Diagonalization (0 is good): 0
+Kpoint: 762
+Error value from Diagonalization (0 is good): 0
+Kpoint: 763
+Error value from Diagonalization (0 is good): 0
+Kpoint: 764
+Error value from Diagonalization (0 is good): 0
+Kpoint: 765
+Error value from Diagonalization (0 is good): 0
+Kpoint: 766
+Error value from Diagonalization (0 is good): 0
+Kpoint: 767
+Error value from Diagonalization (0 is good): 0
+Kpoint: 768
+Error value from Diagonalization (0 is good): 0
+Kpoint: 769
+Error value from Diagonalization (0 is good): 0
+Kpoint: 770
+Error value from Diagonalization (0 is good): 0
+Kpoint: 771
+Error value from Diagonalization (0 is good): 0
+Kpoint: 772
+Error value from Diagonalization (0 is good): 0
+Kpoint: 773
+Error value from Diagonalization (0 is good): 0
+Kpoint: 774
+Error value from Diagonalization (0 is good): 0
+Kpoint: 775
+Error value from Diagonalization (0 is good): 0
+Kpoint: 776
+Error value from Diagonalization (0 is good): 0
+Kpoint: 777
+Error value from Diagonalization (0 is good): 0
+Kpoint: 778
+Error value from Diagonalization (0 is good): 0
+Kpoint: 779
+Error value from Diagonalization (0 is good): 0
+Kpoint: 780
+Error value from Diagonalization (0 is good): 0
+Kpoint: 781
+Error value from Diagonalization (0 is good): 0
+Kpoint: 782
+Error value from Diagonalization (0 is good): 0
+Kpoint: 783
+Error value from Diagonalization (0 is good): 0
+Kpoint: 784
+Error value from Diagonalization (0 is good): 0
+Kpoint: 785
+Error value from Diagonalization (0 is good): 0
+Kpoint: 786
+Error value from Diagonalization (0 is good): 0
+Kpoint: 787
+Error value from Diagonalization (0 is good): 0
+Kpoint: 788
+Error value from Diagonalization (0 is good): 0
+Kpoint: 789
+Error value from Diagonalization (0 is good): 0
+Kpoint: 790
+Error value from Diagonalization (0 is good): 0
+Kpoint: 791
+Error value from Diagonalization (0 is good): 0
+Kpoint: 792
+Error value from Diagonalization (0 is good): 0
+Kpoint: 793
+Error value from Diagonalization (0 is good): 0
+Kpoint: 794
+Error value from Diagonalization (0 is good): 0
+Kpoint: 795
+Error value from Diagonalization (0 is good): 0
+Kpoint: 796
+Error value from Diagonalization (0 is good): 0
+Kpoint: 797
+Error value from Diagonalization (0 is good): 0
+Kpoint: 798
+Error value from Diagonalization (0 is good): 0
+Kpoint: 799
+Error value from Diagonalization (0 is good): 0
+Kpoint: 800
+Error value from Diagonalization (0 is good): 0
+Kpoint: 801
+Error value from Diagonalization (0 is good): 0
+Kpoint: 802
+Error value from Diagonalization (0 is good): 0
+Kpoint: 803
+Error value from Diagonalization (0 is good): 0
+Kpoint: 804
+Error value from Diagonalization (0 is good): 0
+Kpoint: 805
+Error value from Diagonalization (0 is good): 0
+Kpoint: 806
+Error value from Diagonalization (0 is good): 0
+Kpoint: 807
+Error value from Diagonalization (0 is good): 0
+Kpoint: 808
+Error value from Diagonalization (0 is good): 0
+Kpoint: 809
+Error value from Diagonalization (0 is good): 0
+Kpoint: 810
+Error value from Diagonalization (0 is good): 0
+Kpoint: 811
+Error value from Diagonalization (0 is good): 0
+Kpoint: 812
+Error value from Diagonalization (0 is good): 0
+Kpoint: 813
+Error value from Diagonalization (0 is good): 0
+Kpoint: 814
+Error value from Diagonalization (0 is good): 0
+Kpoint: 815
+Error value from Diagonalization (0 is good): 0
+Kpoint: 816
+Error value from Diagonalization (0 is good): 0
+Kpoint: 817
+Error value from Diagonalization (0 is good): 0
+Kpoint: 818
+Error value from Diagonalization (0 is good): 0
+Kpoint: 819
+Error value from Diagonalization (0 is good): 0
+Kpoint: 820
+Error value from Diagonalization (0 is good): 0
+Kpoint: 821
+Error value from Diagonalization (0 is good): 0
+Kpoint: 822
+Error value from Diagonalization (0 is good): 0
+Kpoint: 823
+Error value from Diagonalization (0 is good): 0
+Kpoint: 824
+Error value from Diagonalization (0 is good): 0
+Kpoint: 825
+Error value from Diagonalization (0 is good): 0
+Kpoint: 826
+Error value from Diagonalization (0 is good): 0
+Kpoint: 827
+Error value from Diagonalization (0 is good): 0
+Kpoint: 828
+Error value from Diagonalization (0 is good): 0
+Kpoint: 829
+Error value from Diagonalization (0 is good): 0
+Kpoint: 830
+Error value from Diagonalization (0 is good): 0
+Kpoint: 831
+Error value from Diagonalization (0 is good): 0
+Kpoint: 832
+Error value from Diagonalization (0 is good): 0
+Kpoint: 833
+Error value from Diagonalization (0 is good): 0
+Kpoint: 834
+Error value from Diagonalization (0 is good): 0
+Kpoint: 835
+Error value from Diagonalization (0 is good): 0
+Kpoint: 836
+Error value from Diagonalization (0 is good): 0
+Kpoint: 837
+Error value from Diagonalization (0 is good): 0
+Kpoint: 838
+Error value from Diagonalization (0 is good): 0
+Kpoint: 839
+Error value from Diagonalization (0 is good): 0
+Kpoint: 840
+Error value from Diagonalization (0 is good): 0
+Kpoint: 841
+Error value from Diagonalization (0 is good): 0
+Kpoint: 842
+Error value from Diagonalization (0 is good): 0
+Kpoint: 843
+Error value from Diagonalization (0 is good): 0
+Kpoint: 844
+Error value from Diagonalization (0 is good): 0
+Kpoint: 845
+Error value from Diagonalization (0 is good): 0
+Kpoint: 846
+Error value from Diagonalization (0 is good): 0
+Kpoint: 847
+Error value from Diagonalization (0 is good): 0
+Kpoint: 848
+Error value from Diagonalization (0 is good): 0
+Kpoint: 849
+Error value from Diagonalization (0 is good): 0
+Kpoint: 850
+Error value from Diagonalization (0 is good): 0
+Kpoint: 851
+Error value from Diagonalization (0 is good): 0
+Kpoint: 852
+Error value from Diagonalization (0 is good): 0
+Kpoint: 853
+Error value from Diagonalization (0 is good): 0
+Kpoint: 854
+Error value from Diagonalization (0 is good): 0
+Kpoint: 855
+Error value from Diagonalization (0 is good): 0
+Kpoint: 856
+Error value from Diagonalization (0 is good): 0
+Kpoint: 857
+Error value from Diagonalization (0 is good): 0
+Kpoint: 858
+Error value from Diagonalization (0 is good): 0
+Kpoint: 859
+Error value from Diagonalization (0 is good): 0
+Kpoint: 860
+Error value from Diagonalization (0 is good): 0
+Kpoint: 861
+Error value from Diagonalization (0 is good): 0
+Kpoint: 862
+Error value from Diagonalization (0 is good): 0
+Kpoint: 863
+Error value from Diagonalization (0 is good): 0
+Kpoint: 864
+Error value from Diagonalization (0 is good): 0
+Kpoint: 865
+Error value from Diagonalization (0 is good): 0
+Kpoint: 866
+Error value from Diagonalization (0 is good): 0
+Kpoint: 867
+Error value from Diagonalization (0 is good): 0
+Kpoint: 868
+Error value from Diagonalization (0 is good): 0
+Kpoint: 869
+Error value from Diagonalization (0 is good): 0
+Kpoint: 870
+Error value from Diagonalization (0 is good): 0
+Kpoint: 871
+Error value from Diagonalization (0 is good): 0
+Kpoint: 872
+Error value from Diagonalization (0 is good): 0
+Kpoint: 873
+Error value from Diagonalization (0 is good): 0
+Kpoint: 874
+Error value from Diagonalization (0 is good): 0
+Kpoint: 875
+Error value from Diagonalization (0 is good): 0
+Kpoint: 876
+Error value from Diagonalization (0 is good): 0
+Kpoint: 877
+Error value from Diagonalization (0 is good): 0
+Kpoint: 878
+Error value from Diagonalization (0 is good): 0
+Kpoint: 879
+Error value from Diagonalization (0 is good): 0
+Kpoint: 880
+Error value from Diagonalization (0 is good): 0
+Kpoint: 881
+Error value from Diagonalization (0 is good): 0
+Kpoint: 882
+Error value from Diagonalization (0 is good): 0
+Kpoint: 883
+Error value from Diagonalization (0 is good): 0
+Kpoint: 884
+Error value from Diagonalization (0 is good): 0
+Kpoint: 885
+Error value from Diagonalization (0 is good): 0
+Kpoint: 886
+Error value from Diagonalization (0 is good): 0
+Kpoint: 887
+Error value from Diagonalization (0 is good): 0
+Kpoint: 888
+Error value from Diagonalization (0 is good): 0
+Kpoint: 889
+Error value from Diagonalization (0 is good): 0
+Kpoint: 890
+Error value from Diagonalization (0 is good): 0
+Kpoint: 891
+Error value from Diagonalization (0 is good): 0
+Kpoint: 892
+Error value from Diagonalization (0 is good): 0
+Kpoint: 893
+Error value from Diagonalization (0 is good): 0
+Kpoint: 894
+Error value from Diagonalization (0 is good): 0
+Kpoint: 895
+Error value from Diagonalization (0 is good): 0
+Kpoint: 896
+Error value from Diagonalization (0 is good): 0
+Kpoint: 897
+Error value from Diagonalization (0 is good): 0
+Kpoint: 898
+Error value from Diagonalization (0 is good): 0
+Kpoint: 899
+Error value from Diagonalization (0 is good): 0
+Kpoint: 900
+Error value from Diagonalization (0 is good): 0
+Kpoint: 901
+Error value from Diagonalization (0 is good): 0
+Kpoint: 902
+Error value from Diagonalization (0 is good): 0
+Kpoint: 903
+Error value from Diagonalization (0 is good): 0
+Kpoint: 904
+Error value from Diagonalization (0 is good): 0
+Kpoint: 905
+Error value from Diagonalization (0 is good): 0
+Kpoint: 906
+Error value from Diagonalization (0 is good): 0
+Kpoint: 907
+Error value from Diagonalization (0 is good): 0
+Kpoint: 908
+Error value from Diagonalization (0 is good): 0
+Kpoint: 909
+Error value from Diagonalization (0 is good): 0
+Kpoint: 910
+Error value from Diagonalization (0 is good): 0
+Kpoint: 911
+Error value from Diagonalization (0 is good): 0
+Kpoint: 912
+Error value from Diagonalization (0 is good): 0
+Kpoint: 913
+Error value from Diagonalization (0 is good): 0
+Kpoint: 914
+Error value from Diagonalization (0 is good): 0
+Kpoint: 915
+Error value from Diagonalization (0 is good): 0
+Kpoint: 916
+Error value from Diagonalization (0 is good): 0
+Kpoint: 917
+Error value from Diagonalization (0 is good): 0
+Kpoint: 918
+Error value from Diagonalization (0 is good): 0
+Kpoint: 919
+Error value from Diagonalization (0 is good): 0
+Kpoint: 920
+Error value from Diagonalization (0 is good): 0
+Kpoint: 921
+Error value from Diagonalization (0 is good): 0
+Kpoint: 922
+Error value from Diagonalization (0 is good): 0
+Kpoint: 923
+Error value from Diagonalization (0 is good): 0
+Kpoint: 924
+Error value from Diagonalization (0 is good): 0
+Kpoint: 925
+Error value from Diagonalization (0 is good): 0
+Kpoint: 926
+Error value from Diagonalization (0 is good): 0
+Kpoint: 927
+Error value from Diagonalization (0 is good): 0
+Kpoint: 928
+Error value from Diagonalization (0 is good): 0
+Kpoint: 929
+Error value from Diagonalization (0 is good): 0
+Kpoint: 930
+Error value from Diagonalization (0 is good): 0
+Kpoint: 931
+Error value from Diagonalization (0 is good): 0
+Kpoint: 932
+Error value from Diagonalization (0 is good): 0
+Kpoint: 933
+Error value from Diagonalization (0 is good): 0
+Kpoint: 934
+Error value from Diagonalization (0 is good): 0
+Kpoint: 935
+Error value from Diagonalization (0 is good): 0
+Kpoint: 936
+Error value from Diagonalization (0 is good): 0
+Kpoint: 937
+Error value from Diagonalization (0 is good): 0
+Kpoint: 938
+Error value from Diagonalization (0 is good): 0
+Kpoint: 939
+Error value from Diagonalization (0 is good): 0
+Kpoint: 940
+Error value from Diagonalization (0 is good): 0
+Kpoint: 941
+Error value from Diagonalization (0 is good): 0
+Kpoint: 942
+Error value from Diagonalization (0 is good): 0
+Kpoint: 943
+Error value from Diagonalization (0 is good): 0
+Kpoint: 944
+Error value from Diagonalization (0 is good): 0
+Kpoint: 945
+Error value from Diagonalization (0 is good): 0
+Kpoint: 946
+Error value from Diagonalization (0 is good): 0
+Kpoint: 947
+Error value from Diagonalization (0 is good): 0
+Kpoint: 948
+Error value from Diagonalization (0 is good): 0
+Kpoint: 949
+Error value from Diagonalization (0 is good): 0
+Kpoint: 950
+Error value from Diagonalization (0 is good): 0
+Kpoint: 951
+Error value from Diagonalization (0 is good): 0
+Kpoint: 952
+Error value from Diagonalization (0 is good): 0
+Kpoint: 953
+Error value from Diagonalization (0 is good): 0
+Kpoint: 954
+Error value from Diagonalization (0 is good): 0
+Kpoint: 955
+Error value from Diagonalization (0 is good): 0
+Kpoint: 956
+Error value from Diagonalization (0 is good): 0
+Kpoint: 957
+Error value from Diagonalization (0 is good): 0
+Kpoint: 958
+Error value from Diagonalization (0 is good): 0
+Kpoint: 959
+Error value from Diagonalization (0 is good): 0
+Kpoint: 960
+Error value from Diagonalization (0 is good): 0
+Kpoint: 961
+Error value from Diagonalization (0 is good): 0
+Kpoint: 962
+Error value from Diagonalization (0 is good): 0
+Kpoint: 963
+Error value from Diagonalization (0 is good): 0
+Kpoint: 964
+Error value from Diagonalization (0 is good): 0
+Kpoint: 965
+Error value from Diagonalization (0 is good): 0
+Kpoint: 966
+Error value from Diagonalization (0 is good): 0
+Kpoint: 967
+Error value from Diagonalization (0 is good): 0
+Kpoint: 968
+Error value from Diagonalization (0 is good): 0
+Kpoint: 969
+Error value from Diagonalization (0 is good): 0
+Kpoint: 970
+Error value from Diagonalization (0 is good): 0
+Kpoint: 971
+Error value from Diagonalization (0 is good): 0
+Kpoint: 972
+Error value from Diagonalization (0 is good): 0
+Kpoint: 973
+Error value from Diagonalization (0 is good): 0
+Kpoint: 974
+Error value from Diagonalization (0 is good): 0
+Kpoint: 975
+Error value from Diagonalization (0 is good): 0
+Kpoint: 976
+Error value from Diagonalization (0 is good): 0
+Kpoint: 977
+Error value from Diagonalization (0 is good): 0
+Kpoint: 978
+Error value from Diagonalization (0 is good): 0
+Kpoint: 979
+Error value from Diagonalization (0 is good): 0
+Kpoint: 980
+Error value from Diagonalization (0 is good): 0
+Kpoint: 981
+Error value from Diagonalization (0 is good): 0
+Kpoint: 982
+Error value from Diagonalization (0 is good): 0
+Kpoint: 983
+Error value from Diagonalization (0 is good): 0
+Kpoint: 984
+Error value from Diagonalization (0 is good): 0
+Kpoint: 985
+Error value from Diagonalization (0 is good): 0
+Kpoint: 986
+Error value from Diagonalization (0 is good): 0
+Kpoint: 987
+Error value from Diagonalization (0 is good): 0
+Kpoint: 988
+Error value from Diagonalization (0 is good): 0
+Kpoint: 989
+Error value from Diagonalization (0 is good): 0
+Kpoint: 990
+Error value from Diagonalization (0 is good): 0
+Kpoint: 991
+Error value from Diagonalization (0 is good): 0
+Kpoint: 992
+Error value from Diagonalization (0 is good): 0
+Kpoint: 993
+Error value from Diagonalization (0 is good): 0
+Kpoint: 994
+Error value from Diagonalization (0 is good): 0
+Kpoint: 995
+Error value from Diagonalization (0 is good): 0
+Kpoint: 996
+Error value from Diagonalization (0 is good): 0
+Kpoint: 997
+Error value from Diagonalization (0 is good): 0
+Kpoint: 998
+Error value from Diagonalization (0 is good): 0
+Kpoint: 999
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1000
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1001
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1002
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1003
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1004
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1005
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1006
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1007
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1008
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1009
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1010
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1011
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1012
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1013
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1014
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1015
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1016
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1017
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1018
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1019
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1020
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1021
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1022
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1023
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1024
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1025
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1026
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1027
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1028
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1029
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1030
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1031
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1032
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1033
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1034
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1035
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1036
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1037
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1038
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1039
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1040
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1041
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1042
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1043
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1044
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1045
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1046
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1047
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1048
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1049
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1050
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1051
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1052
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1053
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1054
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1055
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1056
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1057
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1058
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1059
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1060
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1061
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1062
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1063
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1064
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1065
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1066
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1067
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1068
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1069
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1070
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1071
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1072
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1073
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1074
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1075
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1076
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1077
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1078
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1079
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1080
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1081
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1082
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1083
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1084
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1085
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1086
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1087
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1088
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1089
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1090
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1091
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1092
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1093
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1094
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1095
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1096
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1097
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1098
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1099
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1100
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1101
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1102
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1103
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1104
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1105
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1106
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1107
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1108
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1109
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1110
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1111
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1112
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1113
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1114
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1115
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1116
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1117
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1118
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1119
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1120
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1121
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1122
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1123
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1124
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1125
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1126
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1127
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1128
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1129
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1130
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1131
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1132
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1133
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1134
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1135
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1136
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1137
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1138
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1139
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1140
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1141
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1142
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1143
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1144
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1145
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1146
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1147
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1148
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1149
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1150
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1151
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1152
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1153
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1154
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1155
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1156
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1157
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1158
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1159
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1160
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1161
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1162
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1163
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1164
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1165
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1166
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1167
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1168
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1169
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1170
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1171
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1172
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1173
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1174
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1175
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1176
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1177
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1178
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1179
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1180
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1181
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1182
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1183
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1184
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1185
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1186
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1187
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1188
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1189
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1190
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1191
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1192
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1193
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1194
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1195
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1196
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1197
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1198
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1199
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1200
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1201
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1202
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1203
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1204
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1205
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1206
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1207
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1208
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1209
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1210
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1211
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1212
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1213
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1214
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1215
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1216
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1217
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1218
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1219
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1220
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1221
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1222
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1223
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1224
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1225
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1226
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1227
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1228
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1229
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1230
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1231
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1232
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1233
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1234
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1235
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1236
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1237
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1238
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1239
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1240
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1241
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1242
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1243
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1244
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1245
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1246
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1247
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1248
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1249
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1250
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1251
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1252
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1253
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1254
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1255
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1256
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1257
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1258
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1259
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1260
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1261
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1262
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1263
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1264
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1265
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1266
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1267
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1268
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1269
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1270
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1271
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1272
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1273
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1274
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1275
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1276
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1277
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1278
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1279
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1280
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1281
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1282
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1283
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1284
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1285
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1286
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1287
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1288
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1289
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1290
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1291
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1292
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1293
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1294
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1295
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1296
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1297
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1298
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1299
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1300
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1301
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1302
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1303
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1304
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1305
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1306
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1307
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1308
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1309
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1310
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1311
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1312
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1313
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1314
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1315
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1316
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1317
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1318
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1319
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1320
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1321
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1322
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1323
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1324
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1325
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1326
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1327
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1328
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1329
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1330
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1331
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1332
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1333
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1334
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1335
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1336
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1337
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1338
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1339
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1340
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1341
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1342
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1343
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1344
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1345
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1346
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1347
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1348
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1349
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1350
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1351
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1352
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1353
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1354
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1355
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1356
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1357
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1358
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1359
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1360
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1361
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1362
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1363
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1364
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1365
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1366
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1367
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1368
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1369
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1370
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1371
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1372
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1373
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1374
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1375
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1376
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1377
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1378
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1379
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1380
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1381
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1382
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1383
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1384
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1385
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1386
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1387
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1388
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1389
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1390
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1391
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1392
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1393
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1394
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1395
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1396
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1397
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1398
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1399
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1400
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1401
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1402
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1403
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1404
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1405
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1406
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1407
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1408
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1409
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1410
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1411
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1412
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1413
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1414
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1415
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1416
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1417
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1418
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1419
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1420
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1421
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1422
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1423
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1424
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1425
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1426
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1427
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1428
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1429
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1430
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1431
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1432
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1433
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1434
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1435
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1436
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1437
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1438
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1439
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1440
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1441
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1442
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1443
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1444
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1445
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1446
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1447
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1448
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1449
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1450
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1451
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1452
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1453
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1454
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1455
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1456
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1457
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1458
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1459
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1460
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1461
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1462
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1463
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1464
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1465
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1466
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1467
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1468
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1469
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1470
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1471
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1472
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1473
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1474
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1475
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1476
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1477
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1478
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1479
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1480
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1481
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1482
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1483
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1484
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1485
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1486
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1487
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1488
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1489
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1490
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1491
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1492
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1493
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1494
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1495
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1496
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1497
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1498
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1499
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1500
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1501
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1502
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1503
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1504
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1505
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1506
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1507
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1508
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1509
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1510
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1511
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1512
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1513
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1514
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1515
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1516
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1517
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1518
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1519
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1520
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1521
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1522
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1523
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1524
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1525
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1526
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1527
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1528
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1529
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1530
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1531
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1532
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1533
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1534
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1535
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1536
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1537
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1538
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1539
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1540
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1541
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1542
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1543
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1544
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1545
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1546
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1547
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1548
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1549
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1550
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1551
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1552
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1553
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1554
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1555
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1556
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1557
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1558
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1559
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1560
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1561
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1562
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1563
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1564
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1565
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1566
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1567
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1568
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1569
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1570
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1571
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1572
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1573
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1574
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1575
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1576
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1577
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1578
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1579
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1580
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1581
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1582
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1583
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1584
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1585
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1586
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1587
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1588
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1589
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1590
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1591
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1592
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1593
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1594
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1595
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1596
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1597
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1598
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1599
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1600
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1601
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1602
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1603
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1604
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1605
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1606
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1607
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1608
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1609
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1610
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1611
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1612
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1613
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1614
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1615
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1616
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1617
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1618
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1619
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1620
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1621
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1622
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1623
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1624
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1625
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1626
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1627
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1628
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1629
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1630
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1631
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1632
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1633
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1634
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1635
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1636
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1637
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1638
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1639
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1640
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1641
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1642
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1643
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1644
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1645
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1646
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1647
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1648
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1649
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1650
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1651
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1652
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1653
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1654
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1655
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1656
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1657
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1658
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1659
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1660
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1661
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1662
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1663
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1664
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1665
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1666
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1667
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1668
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1669
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1670
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1671
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1672
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1673
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1674
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1675
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1676
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1677
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1678
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1679
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1680
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1681
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1682
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1683
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1684
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1685
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1686
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1687
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1688
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1689
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1690
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1691
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1692
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1693
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1694
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1695
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1696
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1697
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1698
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1699
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1700
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1701
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1702
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1703
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1704
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1705
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1706
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1707
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1708
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1709
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1710
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1711
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1712
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1713
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1714
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1715
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1716
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1717
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1718
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1719
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1720
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1721
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1722
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1723
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1724
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1725
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1726
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1727
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1728
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1729
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1730
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1731
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1732
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1733
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1734
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1735
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1736
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1737
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1738
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1739
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1740
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1741
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1742
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1743
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1744
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1745
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1746
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1747
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1748
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1749
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1750
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1751
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1752
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1753
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1754
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1755
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1756
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1757
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1758
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1759
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1760
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1761
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1762
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1763
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1764
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1765
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1766
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1767
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1768
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1769
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1770
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1771
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1772
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1773
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1774
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1775
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1776
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1777
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1778
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1779
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1780
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1781
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1782
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1783
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1784
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1785
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1786
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1787
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1788
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1789
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1790
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1791
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1792
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1793
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1794
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1795
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1796
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1797
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1798
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1799
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1800
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1801
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1802
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1803
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1804
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1805
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1806
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1807
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1808
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1809
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1810
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1811
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1812
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1813
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1814
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1815
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1816
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1817
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1818
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1819
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1820
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1821
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1822
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1823
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1824
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1825
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1826
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1827
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1828
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1829
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1830
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1831
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1832
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1833
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1834
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1835
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1836
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1837
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1838
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1839
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1840
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1841
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1842
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1843
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1844
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1845
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1846
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1847
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1848
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1849
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1850
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1851
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1852
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1853
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1854
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1855
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1856
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1857
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1858
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1859
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1860
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1861
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1862
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1863
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1864
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1865
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1866
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1867
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1868
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1869
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1870
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1871
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1872
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1873
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1874
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1875
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1876
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1877
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1878
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1879
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1880
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1881
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1882
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1883
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1884
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1885
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1886
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1887
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1888
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1889
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1890
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1891
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1892
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1893
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1894
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1895
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1896
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1897
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1898
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1899
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1900
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1901
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1902
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1903
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1904
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1905
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1906
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1907
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1908
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1909
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1910
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1911
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1912
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1913
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1914
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1915
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1916
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1917
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1918
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1919
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1920
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1921
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1922
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1923
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1924
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1925
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1926
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1927
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1928
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1929
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1930
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1931
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1932
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1933
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1934
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1935
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1936
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1937
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1938
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1939
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1940
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1941
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1942
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1943
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1944
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1945
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1946
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1947
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1948
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1949
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1950
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1951
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1952
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1953
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1954
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1955
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1956
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1957
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1958
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1959
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1960
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1961
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1962
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1963
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1964
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1965
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1966
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1967
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1968
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1969
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1970
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1971
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1972
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1973
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1974
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1975
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1976
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1977
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1978
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1979
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1980
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1981
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1982
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1983
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1984
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1985
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1986
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1987
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1988
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1989
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1990
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1991
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1992
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1993
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1994
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1995
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1996
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1997
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1998
+Error value from Diagonalization (0 is good): 0
+Kpoint: 1999
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2000
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2001
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2002
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2003
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2004
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2005
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2006
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2007
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2008
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2009
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2010
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2011
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2012
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2013
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2014
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2015
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2016
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2017
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2018
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2019
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2020
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2021
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2022
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2023
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2024
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2025
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2026
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2027
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2028
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2029
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2030
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2031
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2032
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2033
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2034
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2035
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2036
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2037
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2038
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2039
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2040
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2041
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2042
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2043
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2044
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2045
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2046
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2047
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2048
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2049
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2050
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2051
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2052
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2053
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2054
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2055
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2056
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2057
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2058
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2059
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2060
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2061
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2062
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2063
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2064
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2065
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2066
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2067
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2068
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2069
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2070
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2071
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2072
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2073
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2074
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2075
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2076
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2077
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2078
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2079
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2080
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2081
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2082
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2083
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2084
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2085
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2086
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2087
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2088
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2089
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2090
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2091
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2092
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2093
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2094
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2095
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2096
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2097
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2098
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2099
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2100
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2101
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2102
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2103
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2104
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2105
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2106
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2107
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2108
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2109
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2110
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2111
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2112
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2113
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2114
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2115
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2116
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2117
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2118
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2119
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2120
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2121
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2122
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2123
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2124
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2125
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2126
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2127
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2128
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2129
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2130
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2131
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2132
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2133
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2134
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2135
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2136
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2137
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2138
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2139
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2140
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2141
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2142
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2143
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2144
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2145
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2146
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2147
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2148
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2149
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2150
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2151
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2152
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2153
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2154
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2155
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2156
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2157
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2158
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2159
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2160
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2161
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2162
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2163
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2164
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2165
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2166
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2167
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2168
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2169
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2170
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2171
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2172
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2173
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2174
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2175
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2176
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2177
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2178
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2179
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2180
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2181
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2182
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2183
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2184
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2185
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2186
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2187
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2188
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2189
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2190
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2191
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2192
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2193
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2194
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2195
+Error value from Diagonalization (0 is good): 0
+Kpoint: 2196
+Error value from Diagonalization (0 is good): 0
+ Sorting 17568 crystal orbitals.
+Generating band structure.
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Error value from Diagonalization (0 is good): 0
+Done!
