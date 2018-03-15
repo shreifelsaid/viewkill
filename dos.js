@@ -1,6 +1,12 @@
 var x =[];
 var y =[];
 
+function create2D(){
+    for (var i =0; i<noOfPoints(); i++){
+        x.push([]);
+        y.push([]);
+    }
+}
 function noOfPoints(){
     var noOfPoints = 1;
     for (var i = 0; i < filelines.length;i++){
@@ -55,15 +61,27 @@ function readDos(){
     
     console.log(StartLine());
 
-    for (var i = 0; i < filelines.length;i++){
-       
-           x.push(filelines[i].split(" ")[2]);
-           y.push(filelines[i].split(" ")[0]);
-       
-    }
- 
-    plotDos()
+    
+    enterData();
+    console.log(x);
+    console.log(y);
 }
+
+var column; 
+
+
+function enterData(column=0){
+    for (var i = 0; i < noOfPoints(); i++){
+        var a = 0;
+        for(var j = start()[i]; j < ennnnd()[i];j++){
+            x[i][a] = filelines[j].split(" ")[-1];
+            y[i][a] = filelines[j].split(" ")[column];
+            a++;
+
+        }
+    }
+}
+
 
 function plotDos(){
     for(var i = 0; i <2;i++){
@@ -72,6 +90,6 @@ function plotDos(){
             console.log("y value is : "+y[j]);
 
         } 
-        
+        console.log("end of curve");
     }
 }
