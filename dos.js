@@ -64,7 +64,7 @@ function readDos(){
     enterData();
     console.log(x);
     console.log(y);
-    // plotDos();
+    plotDos();
 }
 
 var column; 
@@ -83,10 +83,9 @@ function enterData1(){
 function enterData(column=0){
     for (var i = 0; i < noOfPoints(); i++){
         var a = 0;
+        // No of columns 
+        var L = filelines[start()[i]].split(" ").length;
         for(var j = start()[i]; j < ennnnd()[i];j++){
-            // No of columns 
-            var L = filelines[j].split(" ").length
-            console.log(L);
             x[i][a] = filelines[j].split(" ")[L-1];
             y[i][a] = filelines[j].split(" ")[column];
             a++;
@@ -97,5 +96,10 @@ function enterData(column=0){
 
 
 function plotDos(){
-    Plotly.newPlot('plot', x[0],y[0]);
+    var plt1 = {
+        x: y[0],
+        y: x[0],
+        type: 'scatter'
+      };
+    Plotly.newPlot('plot',[plt1]);
 }
