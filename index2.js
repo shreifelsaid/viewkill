@@ -4,7 +4,7 @@ document.getElementById("openfile").addEventListener("change", function(){
     fr.onload = function() {
     filelines = this.result.split("\n");
     //document.getElementById("filecontents").textContent = this.result;
-    readDos();
+    plotBand(readBand());
     }
 
     fr.readAsText(this.files[0]);

@@ -10,9 +10,9 @@ function create2D(){
 function noOfCurves(){
     var noOfCurves = 1;
     for (var i = 0; i < filelines.length;i++){
-        if (filelines[i].includes("# END OF DOS")){
+        if (filelines[i].includes("# END OF COOP")){
 
-            noOfCurves++;         
+            noOfCurves++;
         }
     }
     return noOfCurves;
@@ -21,7 +21,7 @@ function start(){
     var start = [];
     start.push(StartLine());
     for (var i = 0; i < filelines.length;i++){
-        if (filelines[i].includes("# END OF DOS")){
+        if (filelines[i].includes("# END OF COOP")){
 
             start.push(i+2);
         }
@@ -34,7 +34,7 @@ function endOfCurve(){
 
     var end = [];
     for (var i = 0; i < filelines.length;i++){
-        if (filelines[i].includes("# END OF DOS")){
+        if (filelines[i].includes("# END OF COOP")){
 
             end.push(i-1);
 
@@ -66,7 +66,6 @@ function readDos(){
     console.log(x);
     console.log(y);
     plotDos();
-    console.log("blahhhh");
 }
 
 var column; 
